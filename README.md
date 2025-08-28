@@ -19,11 +19,12 @@ The solution is **self-contained** (dummy data only, no external infra) and alig
 
 ## 📂 Repository Structure  
 
-├── scripts/ # Python scripts for data generation & preprocessing
-├── data/ # Raw + cleaned datasets (CSV, JSON)
-├── dashboard/ # Power BI .pbix file + exported visuals
-├── README.md # Project documentation
-└── docs/ # PDF report with screenshots
+├── scripts/           # Python scripts for data generation & preprocessing  
+├── data/              # Raw + cleaned datasets (CSV, JSON)  
+├── dashboard/         # Power BI .pbix file + exported visuals  
+├── README.md          # Project documentation  
+└── docs/              # PDF report with screenshots  
+
 
 
 ---
